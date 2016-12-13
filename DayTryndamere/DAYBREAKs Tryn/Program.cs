@@ -38,7 +38,7 @@ namespace DayTryndamere
             Game.PrintChat("<font color ='#ea812e'>Hey it's DayBreak</font> <font color='#b756c5'>, have fun using TrynsDay</font>");
 
             Menu = new Menu(Player.ChampionName, Player.ChampionName, true);
-            Program.Menu = new Menu("DayTryndamere", "DayTryndamere", true).SetFontStyle(fontColor.Bold, SharpDX.Color.Orange);
+            Program.Menu = new Menu("DayTryndamere", "DayTryndamere", true).SetFontStyle(FontStyle.Bold, SharpDX.Color.Orange);
             Menu orbwalkerMenu = Menu.AddSubMenu(new Menu("Orbwalker", "Orbwalker"));
             Orbwalker = new Orbwalking.Orbwalker(orbwalkerMenu);
             Menu ts = Menu.AddSubMenu(new Menu("Target Selector", "Target Selector")); ;
