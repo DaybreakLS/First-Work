@@ -1,0 +1,17 @@
+c:\users\leon\documents\visual studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\x86\Debug\DAYBREAKs Tryn.exe.config
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\DAYBREAKs Tryn.exe.config
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\DAYBREAKs Tryn.exe
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\DAYBREAKs Tryn.pdb
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\LeagueSharp.dll
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\SharpDX.dll
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\LeagueSharp.Data.dll
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\clipper_library.dll
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\LeagueSharp.Common.pdb
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\LeagueSharp.Data.pdb
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\bin\Debug\clipper_library.pdb
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\obj\x86\Debug\DAYBREAKs Tryn.csprojResolveAssemblyReference.cache
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\obj\x86\Debug\DAYBREAKs Tryn.exe
+C:\Users\Leon\Documents\Visual Studio 2015\Projects\DAYBREAKs Tryn\DAYBREAKs Tryn\obj\x86\Debug\DAYBREAKs Tryn.pdb
